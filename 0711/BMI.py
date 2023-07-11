@@ -11,3 +11,4 @@ elif BMI >= 24 and BMI < 28:
     print("超重")
 elif BMI >= 28:
     print("肥胖")
+# 323
