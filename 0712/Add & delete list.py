@@ -1,3 +1,4 @@
+# 2023/07/12
 original_list = ['Mary', 'Josh', 'Tracy']
 print("1.增加名單")
 print("2.刪除名單")
