@@ -1,3 +1,4 @@
+# 2023/07/15
 ans = 30
 guess = 0
 figure = 0
