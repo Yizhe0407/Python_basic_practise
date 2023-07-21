@@ -1,3 +1,4 @@
+# 2023/07/20
 cocktail = {
     'Blue Hawaiian': {'Rum', 'sweet wine', 'Wine', 'Gream', 'Pineapple Juice', 'Lemon Juice'},
     'Ginger Mojito': {'Rum', 'Ginger', 'Mint' 'Leaves', 'Lime Juice', 'Ginger Soda'},
