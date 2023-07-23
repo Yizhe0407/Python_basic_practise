@@ -1,5 +1,5 @@
 # 2023/07/22
-# means 1
+# method 1
 def computer(figure1, figure2, operator):
     global choose
     if operator == '+':
@@ -24,7 +24,7 @@ while condition:
     condition = choose in ('Y', 'y')
 
 
-# means 2
+# method 2
 def computer():
     global condition
 
@@ -49,7 +49,7 @@ condition = True
 while (condition):
     computer()
 
-# means 3
+# method 3
 def add(x, y):
     return x + y
 

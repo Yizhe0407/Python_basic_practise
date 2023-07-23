@@ -1,5 +1,5 @@
 # 2023/07/18
-# means 1
+# method 1
 travels = {
     '張家界': ['湖南省', '天門山', '大峽谷'],
     '九寒溝': ['四川省', '熊貓海', '箭竹海'],
@@ -14,7 +14,7 @@ for j in range(len(travels)):
     print(f'省份     = {travels[j][1][0]}')
     print(f'景點     = {travels[j][1][1]}, {travels[j][1][2]}')
 
-# means 2
+# method 2
 travels = {
     '張家界': ['湖南省', '天門山', '大峽谷'],
     '九寒溝': ['四川省', '熊貓海', '箭竹海'],

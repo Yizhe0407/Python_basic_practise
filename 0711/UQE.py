@@ -13,14 +13,14 @@ else:
     print("沒有實數根")
 
 # 精簡版
-# a, b, c = eval(input("請輸入一元二次方程式的係數："))
-# number = b ** 2 - 4 * a * c
-# root1 = (-b + number ** 0.5) / (2 * a)
-# root2 = (-b - number ** 0.5) / (2 * a)
-# if number >= 0:
-#     print(f"有實數根\nr1 = {root1:.4f}")
-#     if number > 0:
-#         print(f"r2 = {root2:.4f}")
-# else:
-#     imaginary_part = (-number) ** 0.5 / (2 * a)
-#     print(f"沒有實數根\n複數根：{root1:.4f} + {imaginary_part:.4f}i, {root1:.4f} - {imaginary_part:.4f}i")
+a, b, c = eval(input("請輸入一元二次方程式的係數："))
+number = b ** 2 - 4 * a * c
+root1 = (-b + number ** 0.5) / (2 * a)
+root2 = (-b - number ** 0.5) / (2 * a)
+if number >= 0:
+    print(f"有實數根\nr1 = {root1:.4f}")
+    if number > 0:
+        print(f"r2 = {root2:.4f}")
+else:
+    imaginary_part = (-number) ** 0.5 / (2 * a)
+    print(f"沒有實數根\n複數根：{root1:.4f} + {imaginary_part:.4f}i, {root1:.4f} - {imaginary_part:.4f}i")
