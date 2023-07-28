@@ -13,7 +13,7 @@ I plan to apply the knowledge gained earlier through more hands-on projects. The
 
 ## Lists
 
-* process control
+* ```process control```
     * [0711](https://github.com/Yizhe0407/Python_basic_practise/tree/master/0711)
 * ```list```
     * [0712](https://github.com/Yizhe0407/Python_basic_practise/tree/master/0712)
