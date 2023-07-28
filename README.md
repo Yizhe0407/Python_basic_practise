@@ -10,3 +10,12 @@ Month 2:
 Entering the second month, if I have already mastered the basic syntax and core concepts of Python, I will focus on implementing various projects to enhance my programming skills.
 
 I plan to apply the knowledge gained earlier through more hands-on projects. These projects can cover various domains, such as web applications, web scraping, and more. Through these practical projects, I will learn how to apply theoretical knowledge to real-world problems and refine my logical thinking and problem-solving abilities.
+
+## Classification
+* process control
+    * [0711] (https://github.com/Yizhe0407/Python_basic_practise/tree/master/0711)
+* list
+    * [0712] (https://github.com/Yizhe0407/Python_basic_practise/tree/master/0712)
+    * [0713] (https://github.com/Yizhe0407/Python_basic_practise/tree/master/0713)
+* loop
+    * [0715] (https://github.com/Yizhe0407/Python_basic_practise/tree/master/0715)
