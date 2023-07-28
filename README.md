@@ -1,1 +1,2 @@
-# Python_basic_practise
+# Self-study Python in summer vacation
+
