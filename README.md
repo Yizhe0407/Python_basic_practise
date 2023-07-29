@@ -33,4 +33,5 @@ I plan to apply the knowledge gained earlier through more hands-on projects. The
     * [0725](https://github.com/Yizhe0407/Python_basic_practise/tree/master/0725)
     * [0726](https://github.com/Yizhe0407/Python_basic_practise/tree/master/0726)
 * ```module```
-    * [0727](https://github.com/Yizhe0407/Python_basic_practise/tree/master/0727)
+    * [0728](https://github.com/Yizhe0407/Python_basic_practise/tree/master/0728)
+    * [0729](https://github.com/Yizhe0407/Python_basic_practise/tree/master/0729)
